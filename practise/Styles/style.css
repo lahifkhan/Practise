@@ -1,0 +1,13 @@
+header{
+    height: 200px;
+    background-image: url("../images/61kSWTPMFkL.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: gray;
+    background-blend-mode: multiply;
+   
+}
+.blog-tittle{
+   text-align: center; 
+   text-decoration: line-through;
+}
